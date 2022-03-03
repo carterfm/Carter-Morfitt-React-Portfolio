@@ -1,9 +1,10 @@
-import './css/style.css';
+import React from 'react';
+import Skeleton from './components/Skeleton.js';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Testing testing 123</h1>
+    <div>
+      <Skeleton />
     </div>
   );
 }
