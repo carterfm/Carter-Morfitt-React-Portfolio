@@ -11,7 +11,7 @@ function Skeleton() {
 
     const renderPage = () => {
         if (currentPage === 'AboutMe') {
-            return <AboutMe />;
+            return <AboutMe className/>;
         } else if (currentPage === 'Portfolio') {
             return <Portfolio />;
         } else if (currentPage === 'Contact') {
