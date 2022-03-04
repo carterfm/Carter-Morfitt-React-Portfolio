@@ -1,0 +1,48 @@
+.about-me {
+    color: #475b79;
+}
+
+.about-me .row {
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.about-me .main-content p {
+    font-size: 1.5rem;
+}
+
+.about-me .portrait {
+    justify-content: center;
+    align-items: center;
+}
+
+/* TODO: why the heck was this causing the image to float up the wider the screen became????? */
+/* .about-me .portrait .portrait-holder {
+    margin-top: -200px;
+} */
+
+.about-me .portrait img {
+    display: block;
+    border-radius: 10px;
+    width: auto;
+    height: 300px;
+}
+
+.about-me .portrait .portrait-holder p {
+    display: block;
+    font-size: 1rem;
+    margin: 0;
+}
+
+@media screen and (max-width: 991px){
+    .about-me .row {
+        justify-content: center;
+    }
+
+    .about-me .main-content h1 {
+        text-align: center;
+    }
+    .about-me .portrait .portrait-holder {
+        margin-top: 0px;
+    }
+}

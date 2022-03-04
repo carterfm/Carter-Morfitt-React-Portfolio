@@ -1,9 +1,10 @@
 import React from 'react';
 import Skeleton from './components/Skeleton.js';
+import './styles/App.css';
 
 function App() {
   return (
-    <div class="main-body">
+    <div className="main-body">
       <Skeleton />
     </div>
   );
