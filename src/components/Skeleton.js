@@ -24,7 +24,7 @@ function Skeleton() {
     const handlePageChange = (page) => setCurrentPage(page);
 
     return (
-        <div>
+        <div className="skeleton">
             <Header currentPage={currentPage} handlePageChange={handlePageChange} />
             {renderPage()}
             <Footer />

@@ -3,7 +3,7 @@ import Skeleton from './components/Skeleton.js';
 
 function App() {
   return (
-    <div>
+    <div class="main-body">
       <Skeleton />
     </div>
   );
