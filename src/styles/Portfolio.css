@@ -1,9 +1,0 @@
-.portfolio-page .row {
-    justify-content: space-around;
-}
-
-@media screen and (max-width: 991px) {
-    .portfolio-page .row {
-        justify-content: center;
-    }
-}
