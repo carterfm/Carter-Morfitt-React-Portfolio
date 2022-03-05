@@ -23,3 +23,5 @@ The footer includes links to my GitHub, LinkedIn, and Stack Overflow accounts.
 ![d](https://i.imgur.com/WNJ5tPf.png)
 
 ### Link to deployed app:
+
+[https://carterfm.github.io/Carter-Morfitt-React-Portfolio/](https://carterfm.github.io/Carter-Morfitt-React-Portfolio/)
