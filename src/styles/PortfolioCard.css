@@ -1,0 +1,19 @@
+.portfolio-card .image-holder {
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.portfolio-card a {
+    font-size: 1.5rem;
+    color: #475b79;
+    text-decoration-thickness: 0.2rem;
+}
+
+.portfolio-card a:hover, .portfolio-card a:focus, .portfolio-card a:active {
+    color: #92cccd;
+}

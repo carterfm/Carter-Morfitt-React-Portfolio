@@ -16,10 +16,6 @@
     align-items: center;
 }
 
-/* TODO: why the heck was this causing the image to float up the wider the screen became????? */
-/* .about-me .portrait .portrait-holder {
-    margin-top: -200px;
-} */
 
 .about-me .portrait img {
     display: block;

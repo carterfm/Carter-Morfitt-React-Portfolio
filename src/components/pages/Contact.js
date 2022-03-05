@@ -47,7 +47,7 @@ function Contact () {
             return;
         }
 
-        setErrorMessage('');
+        setErrorMessage('Message submitted. I\'ll get back to you shortly!');
         setEmail('');
         setName('');
         setText('');
