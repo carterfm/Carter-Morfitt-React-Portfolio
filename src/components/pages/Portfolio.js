@@ -6,7 +6,7 @@ function Portfolio () {
     const projectInfo = [
         {
             title: "Street Fighter Combo Translator",
-            description: "A community resource for Street Fighter V that allows users to translate combos from text notation into a series of captioned images. Of they are logged in, users can also post combos to be viewed by others.",
+            description: "A community resource for Street Fighter V that allows users to translate combos from text notation into a series of captioned images. If a user is logged in, they can also post combos to be viewed by others.",
             gitHubFrontEnd: "https://github.com/MMarsolek/StreetFighterFrontEnd",
             gitHubBackEnd: "https://github.com/MMarsolek/StreetFighterCombo",
             deployedLink: "https://sf5combocreator.herokuapp.com/",
@@ -14,7 +14,7 @@ function Portfolio () {
         },
         {
             title: "Emerald Thumb",
-            description: "A garden planning app for the pacific northwest that allows users to render and save garden plans based on their input.",
+            description: "A gardening app for the pacific northwest that allows users to render and save garden plans based on their input.",
             gitHubFrontEnd: "https://github.com/carterfm/How-Does-Your-Garden-Grow-",
             gitHubBackEnd: "A garden",
             deployedLink: "https://serene-dusk-36944.herokuapp.com/",
@@ -30,7 +30,7 @@ function Portfolio () {
         },
         {
             title: "Weather Dashboard",
-            description: "A basic weather dashboard that allows users to search for the current weather conditions and 5-day forecast in cities around the globe.",
+            description: "A basic weather dashboard that allows users to search for the current weather conditions and 5-day forecasts in cities around the globe.",
             gitHubFrontEnd: "https://github.com/carterfm/Weather-Dashboard",
             gitHubBackEnd: "",
             deployedLink: "https://carterfm.github.io/Weather-Dashboard/",
@@ -46,7 +46,7 @@ function Portfolio () {
         },
         {
             title: "Random Password Generator",
-            description: "A simple app that prompts the user for a series of categories a password should meet and then randomly generates a password that meets those categories.",
+            description: "A simple app that prompts the user for a series of conditions a password should meet and then randomly generates a password that meets those conditions.",
             gitHubFrontEnd: "https://github.com/carterfm/Random-Password-Generator",
             gitHubBackEnd: "",
             deployedLink: "https://carterfm.github.io/Random-Password-Generator/",
