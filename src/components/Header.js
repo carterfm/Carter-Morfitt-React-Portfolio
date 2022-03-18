@@ -7,7 +7,7 @@ function Header({ currentPage, handlePageChange }) {
         <div className="container-fluid">
             <div className="row justify-content-around">
                 <div className="col-12 col-lg-4 py-2 d-flex justify-content-center">
-                    <h1 className="font-weight-bold">Carter Morfitt</h1>
+                    <h1>Carter Morfitt</h1>
                 </div>
 
                 <nav className="col-12 col-lg-8 d-flex justify-content-around align-items-center">

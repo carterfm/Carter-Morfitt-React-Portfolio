@@ -1,4 +1,4 @@
-.contact input, .contact textarea {
+/* .contact input, .contact textarea {
     display: block;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -7,4 +7,14 @@
 
 .contact button {
     display: block;
+} */
+.contact a {
+    text-align: center;
+    font-size: 1.75rem;
+    color: #475b79;
+    text-decoration: none;
+}
+
+.contact a:hover, .footer a:focus, .footer a:active {
+    color: #92cccd;
 }

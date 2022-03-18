@@ -1,11 +1,39 @@
+.portfolio-card {
+    border-radius: 10px;
+}
+
+.portfolio-card .title-and-image-holder {
+    position: relative;
+}
+
+.portfolio-card .title {
+    font-weight: bold;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+
+    font-size: 1.5rem;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #92cccd;
+    color: #31343d;
+
+    cursor: pointer;
+}
+
 .portfolio-card .image-holder {
     border-radius: 10px;
     margin-bottom: 15px;
     height: 200px;
+    opacity: 60%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
+    cursor: pointer;
 }
 
 .portfolio-card a {
