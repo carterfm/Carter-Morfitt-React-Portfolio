@@ -10,13 +10,13 @@ function Header({ currentPage, handlePageChange }) {
                     <h1>Carter Morfitt</h1>
                 </div>
 
-                <nav className="col-12 col-lg-8 d-flex justify-content-around align-items-center">
+                <nav className="col-8 d-flex justify-content-around align-items-center">
                     <a
                     href="#AboutMe"
                     onClick={() => handlePageChange('AboutMe')}
                     className={currentPage === 'AboutMe' ? 'selected' : ''}
                     >
-                    About Me
+                    About
                     </a>
                     <a
                     href="#Portfolio"
