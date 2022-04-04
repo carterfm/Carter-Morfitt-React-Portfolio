@@ -9,8 +9,8 @@ function AboutMe () {
                 <section className="col-10 col-md-8 col-lg-8 main-content">
                     <h1>About Me</h1>
                     <p>
-                        Thanks for visiting my portfolio! My name is Carter Morfitt, and I'm a full stack web developer at who recently graduated from the University of Washington's Full Stack Code
-                        Bootcamp. I'm still a newcomer to the industry, so I don't have much in the way of big projects under my belt yet; however, I am fairly proud of the work you can find linked in the portfolio section of this site.
+                        Thanks for visiting my portfolio! My name is Carter Morfitt, and I'm a full stack web developer with a certificate from the University of Washington's full stack code
+                        boot camp. While I am a newcomer to the industry, I'm proud of the work you can find linked in the portfolio section of this site, and I believe it provides a solid cross-section of my capabilities.
                     </p>
                     <p>
                         Aside from my CS education, I'm a magna cum laude graduate of Western Washington

@@ -16,7 +16,7 @@ function Portfolio () {
             title: "Emerald Thumb",
             description: "A gardening app for the pacific northwest that allows users to render and save garden plans based on their input.",
             gitHubFrontEnd: "https://github.com/carterfm/How-Does-Your-Garden-Grow-",
-            gitHubBackEnd: "A garden",
+            gitHubBackEnd: "",
             deployedLink: "https://serene-dusk-36944.herokuapp.com/",
             imageLink: "https://i.imgur.com/FiNwVSM.jpeg"
         },
